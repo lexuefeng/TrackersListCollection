@@ -40,7 +40,7 @@
 
 ****
 
-### 更新时间: 2020-10-01
+### 更新时间: 2020-10-23
 
 *以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2/TrackersListCollection/releases)** ：*
 
@@ -48,14 +48,14 @@
 > 完整列表中的 Tracker 数量多，效果更好，但不可避免的会存在少量死链。  
 > **Tracker 数量并不影响 BT 软件的运行速度，因此我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
 
-* **精选列表：**(121 个)  
+* **精选列表：**(123 个)  
  ***https://trackerslist.com/best.txt***  
-* **完整列表：**(295 个)  
+* **完整列表：**(305 个)  
  ***https://trackerslist.com/all.txt***  
-* **HTTP(S)列表：**(89 个)  
+* **HTTP(S)列表：**(99 个)  
  ***https://trackerslist.com/http.txt***  
 
-> **备用：** 将 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection` ！  
+> **备用：** 将列表地址中的 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection` ！  
 
 ****
 
@@ -87,7 +87,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### BitComet (比特彗星):
 
 > ***官方网站：http://www.bitcomet.com***  
-> ***便携版：https://www.lanzoux.com/b073c7g4f (已配置 Tracker)***  
+> ***便携版：https://xiu.lanzoux.com/b073c7g4f (已配置 Tracker)***  
 
 * **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
@@ -101,7 +101,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### qBittorrent Enhanced Edition (增强版):
 
 > ***Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition***  
-> ***便携版：https://www.lanzoux.com/b073dnr7g (已配置 Tracker，[开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qbee_p))***  
+> ***便携版：https://xiu.lanzoux.com/b073dnr7g (已配置 Tracker，[开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qbee_p))***  
 
 > 基于 qBittorrent，增加了很多实用功能，例如 **订阅 Tracker URL** ，可以很方便的配合本项目使用。
 
@@ -115,7 +115,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### qBittorrent:
 
 > ***官方网站：https://www.qbittorrent.org***  
-> ***便携版：https://www.lanzoux.com/b073jjwta ([开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qb_p))***  
+> ***便携版：https://xiu.lanzoux.com/b073jjwta ([开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qb_p))***  
 
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
